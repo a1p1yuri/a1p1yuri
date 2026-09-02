@@ -6,5 +6,3 @@
  </a>
  </p>
 <p align="center"<p style="font-size: 10px;">ac @urban_blocks on tiktok⠀⏔⠀layout credits @rottingsiren on tumblr
-
-<p align="center"<p style="font-size: 10px;">hi ive quit ponytown sorry to disappoint
