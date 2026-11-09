@@ -10,3 +10,4 @@
 <div> </div>
 
 <p align="center"> <img style="border-radius: 20px;" src="https://media.discordapp.net/attachments/1469751749513576599/1566511216656908478/Screenshot_2026-11-01_at_12-55-45_Ponytowns-treats__.png?ex=6ae8cec2&is=6ae77d42&hm=8a6d3ac21ff0f6ab69572bb4c95c75d38ccb6bae4d6c87322f949bd184718cae&=&format=webp&quality=lossless" />
+<p align="center"> <img style="border-radius: 20px;" src="https://media.discordapp.net/attachments/1469751749513576599/1569440993361797240/Screenshot_2026-11-09_at_14-57-54_pts-r0ttingeyes__.png?ex=6af37753&is=6af225d3&hm=560dc8d50ba82e0729d1f36cae0e8ae1473c8faec55f2246b39f8c0a551a7056&=&format=webp&quality=lossless" />
